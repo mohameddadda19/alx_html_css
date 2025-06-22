@@ -1,0 +1,922 @@
+
+
+.box{
+    position: relative;
+    width: 1103px;
+    height: 29px;
+}
+
+.box .header{
+    position: fixed;
+    width: 1103px;
+    height: 29px;
+    top: 0;
+    left: 0;
+    background-color: transparent;
+   
+   
+}
+
+.box .logo{
+    position: absolute;
+    width: 167px;
+    height: 29px;
+    top: 0;
+    left: 0;
+}
+
+.box .smile-school{
+    position: absolute;
+    width: 112px;
+    height: 13px;
+    top: 7px;
+    left: 55px;
+}
+
+ .box .menu{
+    position: absolute;
+    width: 234px;
+    height: 15px;
+    top: 2px;
+    left: 869px;
+}
+.box .text-wrapper{
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family: "Source Sans Pro-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  
+}
+
+.box .div{
+    position: absolute;
+    top: -1px;
+    left: 102px;
+    font-family: "Source Sans Pro-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+   
+}
+
+.box .text-wrapper-2{
+    position: absolute;
+    top: -1px;
+    left: 200px;
+    font-family: "Source Sans Pro-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    
+}
+
+.main-part{
+    width: 1440px;
+    height: 1093px;
+}
+
+.main-part .overlap{
+    position: relative;
+    width: 1439px;
+    height: 1093px;
+    left: 1px;
+    background-image: url(./images/Object.png);
+    background-size: 100% 100%;
+}
+
+.main-part .overlap-group{
+    position: absolute;
+    width: 684px;
+    height: 161px;
+    top: 219px;
+    left: 376px;
+}
+.label{
+    width: 684px;
+    height: 151px;
+}
+.main-part .text-wrapper{
+    position: absolute;
+    bottom: 40px;
+    left: 0;
+    font-family: "Source Sans Pro-Bold", Helvetica;
+    font-weight: 700;
+    color: #fff;
+    font-size: 100px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.main-part .div{
+    position: absolute;
+    top:141px;
+    left:216px;
+    font-family: "Source Sans Pro-Bold", Helvetica;
+    font-weight: 700;
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+
+.main-part .text-wrapper-2{
+    position: absolute;
+    top: 141px;
+    left: 327px;
+    font-family: "Source Sans Pro-Bold", Helvetica;
+    font-weight: 700;
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.main-part .text-wrapper-3{
+    position: absolute;
+    top: 141px;
+    left: 420px;
+    font-family: "Source Sans Pro-Bold", Helvetica;
+    font-weight: 700;
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.main-part .button{
+    all:unset;
+    box-sizing: border-box;
+    position: absolute;
+    width: 162px;
+    height: 44px;
+    top: 419px;
+    left: 638px;
+    overflow: hidden;
+    box-shadow: 0px 2px 20px #00000000;
+    border-radius: 15px;
+}
+
+.main-part .div-wrapper{
+    position: relative;
+    width: 164px;
+    height: 46px;
+    top: -1px;
+    left: -1px;
+    background-color: #c170ff;
+    border: 22px;
+}
+
+.main-part .text-wrapper-4{
+    position: absolute;
+    top: 13px;
+    left: 21px;
+    font-family: "Source Sans Pro-SemiBold", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal; 
+}
+
+.main-part .learn-from-the-pros{
+    position: absolute;
+    top: 630px;
+    left: 603px;
+    font-family: "Source Sans Pro-Bold", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.main-part .span{
+    font-weight: 700;
+    color: #c170ff;
+}
+
+.main-part .text-wrapper-5{
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.main-part .text-wrapper-6{
+    font-family: "Source Sans Pro-Light", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+}
+
+.main-part .pros{
+    position: absolute;
+    width: 1009px;
+    height: 237px;
+    top: 758px;
+    left: 216px;
+}
+
+.main-part .pro{
+    position: absolute;
+    width: 150px;
+    height: 237px;
+    top: 0;
+    left: 859px;
+}
+
+.main-part .text-wrapper-7{
+    position: absolute;
+    width: 150px;
+    top: 159px;
+    left: 0;
+    font-family: "Source Sans Pro-Black", Helvetica;
+    font-weight: 900;
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 27px;
+}
+
+.main-part .text-wrapper-8{
+    position: absolute;
+    width: 150px;
+    top: 188px;
+    left: 0;
+    font-family: "Source Sans Pro-Italic", Helvetica;
+    font-weight: 400;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 24px;
+}
+
+.main-part avatar{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    top: 0;
+    left: 0;
+}
+
+.main-part .pro-2{
+    position: absolute;
+    width: 150px;
+    height: 237px;
+    top: 0;
+    left: 570px;
+}
+
+.main-part .pro-3{
+    position: absolute;
+    width: 150px;
+    height: 237px;
+    top: 0;
+    left: 289px;
+}
+
+.main-part .pro-4{
+    position: absolute;
+    width: 150px;
+    height: 237px;
+    top: 0;
+    left: 0;
+}
+
+.box .part-testimonials {
+   background-color: #C271FF;
+    width: 1440px;
+    height: 392px;
+    top: 0;
+    left: 0;
+}
+
+.box .overlap-group{
+    position: relative;
+    width: 1439px;
+    height: 392px;
+    left: 1px;
+    background-size: 100% 100%;
+    padding-top: 75px;
+}
+
+.box{
+    
+    width: 1432px;
+    height: 396px;
+}
+
+.box .testimonial{
+    position: fixed;
+    width: 943px;
+    height: 160px;
+    top: 0;
+    left: 0;
+}
+
+.box .avatar{
+    position: absolute;
+    width: 160px;
+    height: 160px;
+    top: 50px;
+    left: 15%;
+}
+
+.box .text{
+    position: absolute;
+    width: 730px;
+    height: 158px;
+    top: 25px;
+    left: 30%;
+}
+
+.box .text-wrapper{
+    position: absolute;
+    padding-top: 10px;
+    top: 123px;
+    left: 0;
+    font-family: "Source Sans Pro-Italic", Helvetica;
+    font-weight: 400;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: 33.6px;
+    white-space: nowrap;
+}
+
+.box .div{
+    position: absolute;
+    top: 89px;
+    left: 0;
+    font-family: "Source Sans Pro-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 22px;
+    padding-top: 10px;
+    letter-spacing: 0;
+    line-height: 33.6px;
+    white-space: nowrap;
+}
+
+.box .those-tutorials-ar{
+    position: absolute;
+    width: 730px;
+    top: -1px;
+    left: 0;
+    font-family: "Source Sans Pro-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: 33.6px;
+}
+
+.part-tutorials{
+    position: relative;
+    width: 1228px;
+    height: 450px;
+}
+
+.part-tutorials .most-popular-tutoria{
+    position: absolute;
+    top: -1px;
+    left: 482px;
+    font-family: "Source Sans Pro-light", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 32px;
+    text-align: center;
+    line-height: normal;
+    letter-spacing: 0;
+}
+
+.part-tutorials .text-wrapper{
+    font-weight: 300;
+    color: #071629;
+}
+
+.part-tutorials .span{
+    font-family:"Source Sans Pro-Bold", Helvetica; 
+    font-weight: 700;
+    color: #c170ff;
+}
+
+.part-tutorials .text-wrapper-2{
+    font-family:"Source Sans Pro-Bold", Helvetica ;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.part-tutorials .tuto{
+    position: absolute;
+    width: 255px;
+    height: 335px;
+    top: 115px;
+    left: 58px;
+    overflow: hidden;
+}
+
+.part-tutorials .overlap-group{
+    position: relative;
+    width: 257px;
+    height: 337px;
+    top: -1px;
+    left: -1px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px #0716292d;
+}
+
+.part-tutorials .avatar{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 262px;
+    left: 14px;
+}
+
+.part-tutorials .div{
+    position: absolute;
+    top: 263px;
+    left: 57px;
+    font-family:"Source Sans Pro-Semibold", Helvetica ;
+    font-weight: 400;
+    color: #c170ff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 27px;
+    white-space: nowrap;
+}
+
+.part-tutorials .text-wrapper-3{
+    position: absolute;
+    top: 297px;
+    left: 200px;
+    font-family:"Source Sans Pro-Semibold", Helvetica ;
+    font-weight: 400;
+    color: #c170ff;
+    text-align: right;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 27px;
+    white-space: nowrap;
+}
+
+.part-tutorials .rating{
+    position: absolute;
+    width: 107px;
+    height: 15px;
+    top: 306px;
+    left: 14px;
+}
+
+.part-tutorials .lorem-ipsum-dolor-si{
+    position: absolute;
+    width: 242px;
+    top: 200px;
+    left: 14px;
+    font-family:"Source Sans Pro-Regular", Helvetica ;
+    font-size: 14px;
+    font-weight: 400;
+    color: #07162980;
+    letter-spacing: 0;
+    line-height: 24px;
+}
+
+.part-tutorials .text-wrapper-4{
+    position: absolute;
+    top: 172px;
+    left: 14px;
+    font-family:"Source Sans Pro-Bold", Helvetica ;
+    font-weight: 700;
+    color: #071629;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.part-tutorials .overlap{
+    position: absolute;
+    width: 255px;
+    height: 154px;
+    top: 1px;
+    left: 1px;
+    background-image: url(./images/9.png);
+    background-size: 100% 100%;
+}
+
+.part-tutorials .overlap-wrapper{
+    position: absolute;
+    width: 255px;
+    height: 335px;
+    top: 115px;
+    left: 344px;
+    overflow: hidden;
+}
+
+.part-tutorials .play{
+    position: absolute;
+    width: 64px;
+    height: 64px;
+    top: 45px;
+    left: 96px;
+}
+
+.part-tutorials .play-wrapper{
+    position: absolute;
+    width: 255px;
+    height: 154px;
+    top: 1px;
+    left: 1px;
+    background-image: url(./images/7.png);
+    background-size: 100% 100%;
+}
+
+.part-tutorials .overlap-group-wrapper{
+    position: absolute;
+    width: 255px;
+    height: 335px;
+    top: 115px;
+    left: 629px;
+    overflow: hidden;
+}
+
+.part-tutorials .img-wrapper{
+    position: absolute;
+    width: 255px;
+    height: 154px;
+    top: 1px;
+    left: 1px;
+    background-image: url(./images/8.png);
+    background-size: 100% 100%;
+}
+
+.part-tutorials .div-wrapper{
+    position: absolute;
+    width: 255px;
+    height: 335px;
+    top: 115px;
+    left: 914px;
+    overflow: hidden;
+}
+ 
+.part-tutorials .overlap-group-2{
+    position: absolute;
+    width: 255px;
+    height: 154px;
+    top: 1px;
+    left: 1px;
+    background-image: url(./images/6.png);
+    background-size: 100% 100%;
+}
+
+.part-free{
+    position: relative;
+    width: 1440px;
+    height: 502px;
+    background-color: #071629;
+    background-size: 100% 100%;
+}
+
+.part-free .free-membership{
+    position: absolute;
+    top: 69px;
+    left: 617px;
+    font-family: "Source Sans Pro-Bold", Helvetica ;
+    font-weight: 400;
+    color: transparent;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.part-free .text-wrapper{
+    font-weight: 700;
+    color: #c170ff;
+}
+
+.part-free .span{
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.part-free .text-wrapper-2{
+    font-family: "Source Sans Pro-Light", Helvetica ;
+    font-weight: 300;
+    color: #ffffff;
+}
+
+.part-free .button{
+    all: unset;
+    box-sizing: border-box;
+    position: absolute;
+    width: 162px;
+    height: 44px;
+    top: 406px;
+    left: 639px;
+    overflow: hidden;
+    box-shadow: 0px 2px 20px #00000000;
+}
+
+.part-free .overlap-group{
+    position: relative;
+    width: 164px;
+    height: 46px;
+    top: -1px;
+    left: -1px;
+    background-color: #c170ff;
+    border-radius: 22px;
+}
+
+.part-free .div{
+    position: absolute;
+    top: 13px;
+    left: 22px;
+    font-family: "Source Sans Pro-Semibold", Helvetica ;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.part-free .dot{
+    position: absolute;
+    top: 168px;
+    left: 164px;
+    width: 257px;
+    height: 153px;
+}
+
+.part-free .lorem-ipsum-dolor-si{
+    position: absolute;
+    width: 212px;
+    top: 100px;
+    left: 22px;
+    font-family: "Source Sans Pro-Regular", Helvetica ;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 26px;
+}
+
+.part-free .text-wrapper-3{
+    position: absolute;
+    width: 256px;
+    top: 61px;
+    left: 0;
+    font-family: "Source Sans Pro-Semibold", Helvetica ;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 26px;
+}
+
+.part-free .smile{
+    position: absolute;
+    width: 44px;
+    height: 35px;
+    top: 0;
+    left: 107px;
+}
+
+.part-free .dot-2{
+    position: absolute;
+    width: 257px;
+    height: 153px;
+    top: 168px;
+    left: 448px;
+}
+
+.part-free .p{
+    position: absolute;
+    width: 221px;
+    top: 100px;
+    left: 18px;
+    font-family: "Source Sans Pro-Regular", Helvetica ;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 26px;
+}
+
+.part-free .dot-3{
+    position: absolute;
+    width: 257px;
+    height: 153px;
+    top: 168px;
+    left: 733px;
+}
+
+.part-free .lorem-ipsum-dolor-si-2{
+    position: absolute;
+    width: 215px;
+    top: 100px;
+    left: 21px;
+    font-family: "Source Sans Pro-Regular", Helvetica ;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 26px;
+}
+
+.part-free .dot-4{
+    position: absolute;
+    width: 257px;
+    height: 153px;
+    top: 168px;
+    left: 1019px;
+}
+
+.part-FAQ{
+    position: relative;
+    width: 920px;
+    height: 707px;
+}
+
+.part-FAQ .text-wrapper{
+    position: absolute;
+    top: -1px;
+    left: 650px;
+    font-family: "Source Sans Pro-Light", Helvetica ;
+    font-weight: 300;
+    color: #071629;
+    font-size: 60px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.part-FAQ .q{
+    position: absolute;
+    width: 350px;
+    height: 242px;
+    top: 149px;
+    left: 0;
+}
+
+.part-FAQ .lorem-ipsum-dolor-si{
+    position: absolute;
+    width: 350px;
+    top: 49px;
+    left:255px;
+    font-family: "Source Sans Pro-Regular", Helvetica ;
+    font-weight: 400;
+    color: #07162980;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 24px;
+}
+
+.part-FAQ .div{
+    position: absolute;
+    top: -1px;
+    left: 250px;
+    font-family: "Source Sans Pro-Bold", Helvetica ;
+    font-weight: 700;
+    color: #071629;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.part-FAQ .q-2{
+    position: absolute;
+    width: 350px;
+    height: 242px;
+    top: 465px;
+    left: 0;
+}
+
+.part-FAQ .q-3{
+    position: absolute;
+    width: 350px;
+    height: 242px;
+    top: 149px;
+    left: 570px;
+}
+
+.part-FAQ .q-4{
+    position: absolute;
+    width: 350px;
+    height: 242px;
+    top: 465px;
+    left: 570px;
+}
+
+.part-footer{
+    width: 1440px;
+    height: 249px;
+    overflow: hidden;
+}
+
+.part-footer .overlap-group{
+    position: relative;
+    width: 1442px;
+    height: 251px;
+    top: -1px;
+    left: -1px;
+    background-color: #071629;
+}
+
+.part-footer .logo{
+    position: absolute;
+    width: 169px;
+    height: 30px;
+    top: 96px;
+    left: 166px;
+}
+
+.part-footer .text-wrapper{
+    position: absolute;
+    top: 5px;
+    left: 55px;
+    font-family: "Coiny-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.part-footer .smile{
+    position: absolute;
+    top: 36px;
+    height: 29px;
+    top: 0;
+    left: 1px;
+}
+
+.part-footer .div{
+    position: absolute;
+    top: 195px;
+    left: 673px;
+    opacity: 0.35;
+    font-family: "Source Sans Pro-Regular", Helvetica ;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.part-footer .social-icons{
+    position: absolute;
+    width: 130px;
+    height: 30px;
+    top: 91px;
+    left: 1071px;
+}
+
+.part-footer .instagram{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 100px;
+}
+
+.part-footer .twitter{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 50px;
+}
+
+.part-footer .facebook{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    color: #ffffff;
+}
